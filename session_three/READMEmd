@@ -1,8 +1,7 @@
 
-<param ve-map
-	   center="6.441,3.373"
-	   zoom="9"
-	   caption="This is the location of Agege Lagos">
+<param ve-video
+	   src="1n-zJNdfQJI"
+	   start="60">
 	   
 	
 	   
